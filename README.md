@@ -9,7 +9,7 @@
 
 ## 👾 Preview
 [![preview](2022-10-27_01-50.png)](https://phvitorio.github.io/NLW-Esports/)
->- Click na imagem para acessar o preview
+>- Click na imagem para acessar a demo
 
 ##  👨‍💻 Develop
 [Developed by Pedro Vitório  👨‍💻](https://www.instagram.com/ph_vitorio/)

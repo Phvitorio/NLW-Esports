@@ -8,7 +8,7 @@
 >- GITHUB
 
 ## 👾 Preview
-[![preview](2022-10-27_01-50.png)](https://phvitorio.github.io/NLW-Esports/)
+[![preview](./assents/preview.png)](https://phvitorio.github.io/NLW-Esports/)
 >- Click na imagem para acessar a demo
 
 ##  👨‍💻 Develop
